@@ -1,0 +1,8 @@
+﻿  main.cpp
+  methods.cpp
+d:\c++ study\arithmetic\arithmetic\methods.cpp(106): warning C4018: “<”: 有符号/无符号不匹配
+d:\c++ study\arithmetic\arithmetic\methods.cpp(107): warning C4018: “<”: 有符号/无符号不匹配
+d:\c++ study\arithmetic\arithmetic\methods.cpp(112): warning C4018: “<”: 有符号/无符号不匹配
+d:\c++ study\arithmetic\arithmetic\methods.cpp(113): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+  arithmetic.vcxproj -> D:\c++ study\arithmetic\Debug\arithmetic.exe
